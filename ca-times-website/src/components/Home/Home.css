@@ -1,0 +1,37 @@
+.mainContainer {
+    display:block;
+    text-decoration: none;
+}
+
+.mainContainer a {
+    text-decoration: none;
+    
+}
+
+.mainContainer a:visited {
+    color:#000;
+  }
+
+.featuredAndAllArticles {
+    font-family: franklin;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* padding-bottom: 10px; */
+    border-bottom: 1px solid #9f9f9f;
+}
+
+.featuredArticles {
+    margin-right: 20px;
+}
+
+.featuredArticles.active{
+    border-bottom: 2px solid #9f9f9f;
+    padding-bottom: 10px;
+}
+
+.allArticles.active{
+    border-bottom: 2px solid #9f9f9f;
+    padding-bottom: 10px;
+}

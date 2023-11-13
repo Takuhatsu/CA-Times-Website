@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "link": "/login",
+    "userImage": "article-0/AB1.png",
+    "nickname": "Takuhatsu",
+    "isVerified": true,
+    "articleDate": "Oct 15, 2023",
+    "articleCoverImage": "article-0/l8ercr2ewi661.jpg",
+    "tag": "Games",
+
+    "timeToRead": "25 min read",
+    "title": "How I store my old Lego?",
+    "shortDesc": "Today I want to dive into one of the solutions we love: an easy way to sort and store LEGO sets."
+  },
+  {
+    "id": 2,
+    "link": "/login",
+    "userImage": "article-0/AB1.png",
+    "nickname": "Jaw3d",
+    "isVerified": false,
+    "articleDate": "Oct 15",
+    "articleCoverImage": "article-0/AB1.png",
+    "tag": "Games",
+
+    "timeToRead": "25 min read",
+    "title": "How I store my old Lego?",
+    "shortDesc": "Today I want to dive into one of the solutions we love: an easy way to sort and store LEGO sets."
+  }
+]

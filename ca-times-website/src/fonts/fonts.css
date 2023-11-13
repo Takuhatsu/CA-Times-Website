@@ -1,0 +1,188 @@
+@font-face {
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/Segoe-UI.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family: 'Segoe UI';
+    font-style: italic;
+    font-weight: normal;
+    src: url('../fonts/Segoe-UI-Italic.ttf') format('truetype');
+  }
+  
+  /* @font-face {
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/Segoe-UI-Bold.ttf') format('truetype');
+  } */
+  
+  @font-face {
+    font-family: 'Segoe UI';
+    font-style: italic;
+    font-weight: bold;
+    src: url('../fonts/Segoe-UI-Bold-Italic.ttf') format('truetype');
+  }
+
+  /* ------------------------------------------------------------------- */
+
+  @font-face {
+    font-family: 'Chirp';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/Chirp/chirp-regular-web.woff') format('woff');
+  }
+
+  @font-face {
+    font-family: 'Chirp';
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/Chirp/chirp-bold-web.woff') format('woff');
+  }
+
+  /* Franklin */
+
+/* Franklin Normal 500 */
+@font-face {
+  font-family: 'FranklinNormal500';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/Franklin/franklin-normal-500.ttf') format('truetype');
+}
+
+/* Franklin Italic 300 */
+@font-face {
+  font-family: 'franklin';
+  font-style: italic;
+  font-weight: 300;
+  src: url('../fonts/Franklin/franklin-italic-300.ttf') format('truetype');
+}
+
+/* Franklin Italic 500 */
+@font-face {
+  font-family: 'franklin';
+  font-style: italic;
+  font-weight: 500;
+  src: url('../fonts/Franklin/franklin-italic-500.ttf') format('truetype');
+}
+
+/* Franklin Italic 600 */
+@font-face {
+  font-family: 'franklin';
+  font-style: italic;
+  font-weight: 600;
+  src: url('../fonts/Franklin/franklin-italic-600.ttf') format('truetype');
+}
+
+/* Franklin Italic 700 */
+@font-face {
+  font-family: 'franklin';
+  font-style: italic;
+  font-weight: 700;
+  src: url('../fonts/Franklin/franklin-italic-700.ttf') format('truetype');
+}
+
+/* Franklin Italic 800 */
+@font-face {
+  font-family: 'franklin';
+  font-style: italic;
+  font-weight: 800;
+  src: url('../fonts/Franklin/franklin-italic-800.ttf') format('truetype');
+}
+
+/* Franklin Italic 900 */
+@font-face {
+  font-family: 'franklin';
+  font-style: italic;
+  font-weight: 900;
+  src: url('../fonts/Franklin/franklin-italic-900.ttf') format('truetype');
+}
+
+/* Franklin Small Normal 500 */
+@font-face {
+  font-family: 'franklinSmall';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/Franklin/franklin-small-normal-500.ttf') format('truetype');
+}
+
+/* Franklin Small Normal 700 */
+@font-face {
+  font-family: 'franklinSmall';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/Franklin/franklin-small-normal-700.ttf') format('truetype');
+}
+
+/* Franklin Normal 300 */
+@font-face {
+  font-family: 'franklin';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/Franklin/franklin-normal-300.ttf') format('truetype');
+}
+
+/* Franklin Normal 600 */
+@font-face {
+  font-family: 'franklin';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/Franklin/franklin-normal-600.ttf') format('truetype');
+}
+
+/* Franklin Normal 700 */
+@font-face {
+  font-family: 'franklin';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/Franklin/franklin-normal-700.ttf') format('truetype');
+}
+
+/* Franklin Normal 800 */
+@font-face {
+  font-family: 'franklin';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/Franklin/franklin-normal-800.ttf') format('truetype');
+}
+
+/* Franklin Normal 900 */
+@font-face {
+  font-family: 'franklin';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/Franklin/franklin-normal-900.ttf') format('truetype');
+}
+
+/* Karnak */
+
+@font-face {
+  font-family: 'karnak';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Karnak/karnak-normal-400.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'karnakSmall';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Karnak/karnak-small-normal-400.ttf') format('truetype');
+}
+
+/* SF Pro */
+@font-face {
+  font-family: 'SF Pro';
+  font-weight: bold;
+  src: url('../fonts/SFPro/SF-Pro-Text-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SF Pro Heavy';
+  src: url('../fonts/SFPro/SF-Pro-Text-Heavy.otf') format('opentype');
+}
+
+
+  
