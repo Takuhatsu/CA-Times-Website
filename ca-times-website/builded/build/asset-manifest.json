@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ef82937.css",
+    "main.js": "/static/js/main.86e1918c.js",
+    "static/js/787.3f9dc7be.chunk.js": "/static/js/787.3f9dc7be.chunk.js",
+    "static/media/SF-Pro-Text-Heavy.otf": "/static/media/SF-Pro-Text-Heavy.4f6b327cac5ca4071e79.otf",
+    "static/media/SF-Pro-Text-Bold.otf": "/static/media/SF-Pro-Text-Bold.f321f7b8a04248a4394c.otf",
+    "static/media/franklin-italic-800.ttf": "/static/media/franklin-italic-800.142ff25d90a849f7de88.ttf",
+    "static/media/franklin-italic-900.ttf": "/static/media/franklin-italic-900.7dcd5af68cc9e8e58fe1.ttf",
+    "static/media/franklin-normal-900.ttf": "/static/media/franklin-normal-900.fd865c7b05c2148a72a4.ttf",
+    "static/media/franklin-normal-800.ttf": "/static/media/franklin-normal-800.2a8773c6a85bc0a7565d.ttf",
+    "static/media/karnak-normal-400.ttf": "/static/media/karnak-normal-400.c4ec8c0cf448005c3700.ttf",
+    "static/media/karnak-small-normal-400.ttf": "/static/media/karnak-small-normal-400.b894a641e3ce3bbfe10e.ttf",
+    "static/media/franklin-italic-700.ttf": "/static/media/franklin-italic-700.38d677851eea858680cc.ttf",
+    "static/media/franklin-italic-600.ttf": "/static/media/franklin-italic-600.1a2494cf00e0cdf11400.ttf",
+    "static/media/franklin-italic-500.ttf": "/static/media/franklin-italic-500.f0dbb10d379aaf36c81b.ttf",
+    "static/media/franklin-italic-300.ttf": "/static/media/franklin-italic-300.1f5a2829f5e7db0e719b.ttf",
+    "static/media/franklin-normal-700.ttf": "/static/media/franklin-normal-700.71b4c3dadf3f6a221ee3.ttf",
+    "static/media/franklin-normal-300.ttf": "/static/media/franklin-normal-300.b2fbc9625bc321fb1b26.ttf",
+    "static/media/chirp-bold-web.woff": "/static/media/chirp-bold-web.eca8a18551c3cd071cbb.woff",
+    "static/media/franklin-normal-600.ttf": "/static/media/franklin-normal-600.f5e3aa62b6a6e4775c41.ttf",
+    "static/media/franklin-normal-500.ttf": "/static/media/franklin-normal-500.ce6d13d55ecb38a5e0df.ttf",
+    "static/media/chirp-regular-web.woff": "/static/media/chirp-regular-web.d7b0cdb927c256291b49.woff",
+    "static/media/Segoe-UI-Bold-Italic.ttf": "/static/media/Segoe-UI-Bold-Italic.1dc286eeecb0da1dd712.ttf",
+    "static/media/Segoe-UI-Italic.ttf": "/static/media/Segoe-UI-Italic.cba58501ca412000495c.ttf",
+    "static/media/franklin-small-normal-500.ttf": "/static/media/franklin-small-normal-500.cbfc9fd1f99ce8abfeae.ttf",
+    "static/media/franklin-small-normal-700.ttf": "/static/media/franklin-small-normal-700.69faa5c6a9f8c1ae1ff9.ttf",
+    "static/media/Segoe-UI.ttf": "/static/media/Segoe-UI.45472284dc36b2486ce2.ttf",
+    "static/media/TCAT-Logo.svg": "/static/media/TCAT-Logo.23cf009289ed22912f97b10abc3144e8.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Password-Icon.svg": "/static/media/Password-Icon.d5a341636d808194c6d66f395ac1abf8.svg",
+    "static/media/NicknameEmoji.svg": "/static/media/NicknameEmoji.6d808180ee2833684738086022b2b267.svg",
+    "index.html": "/index.html",
+    "main.5ef82937.css.map": "/static/css/main.5ef82937.css.map",
+    "main.86e1918c.js.map": "/static/js/main.86e1918c.js.map",
+    "787.3f9dc7be.chunk.js.map": "/static/js/787.3f9dc7be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ef82937.css",
+    "static/js/main.86e1918c.js"
+  ]
+}

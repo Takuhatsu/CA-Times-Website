@@ -44,7 +44,7 @@ const Navbar = () => {
         </div>
       </div>
       <div className="nav-mobile">
-        <div className="userManager">
+        {/* <div className="userManager">
           <svg
             id="userIcon"
             height="25"
@@ -57,7 +57,7 @@ const Navbar = () => {
 	C24.1,25.2,21.3,25,21,25z M12.3,12.1c3.1,0,5.6-2.7,5.6-6.1S15.4,0,12.3,0S6.7,2.7,6.7,6.1S9.2,12.1,12.3,12.1z"
             />
           </svg>
-        </div>
+        </div> */}
 
         <img id="tcat" src={tcat_logo} alt="" onClick={handleImageClick} />
 
@@ -98,6 +98,9 @@ const Navbar = () => {
             </NavLink>
             <NavLink to="/login" className="navlink" onClick={closeMenu}>
               LOGIN
+            </NavLink>
+            <NavLink to="/profile" className="navlink" onClick={closeMenu}>
+              PROFILE
             </NavLink>
           </div>
         </div>
